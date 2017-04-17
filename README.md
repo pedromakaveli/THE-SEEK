@@ -11,4 +11,4 @@ Greetz: Hospeda Host<br />
 > cd THE-SEEK-MASTER ou nome da pasta ou acesse o diretorio onde voce baixou o script <br />
 
 # AJUDAS
--h para mais ajudas <br/>
+> -h para mais ajudas <br/>
