@@ -1,12 +1,3 @@
-################<br />
-   The seek 1.0 <br />
-################<br />
-
-# PRINTS
-
-<img src="http://i.imgur.com/YGNlw9J.png">
-<img src="http://i.imgur.com/73nMsiV.png">
-
 # Apresentação
 Com amor, desenvolvemos este script com funções mistas para coleta de informações, esta é a v1.0
 Somos estudantes em tecnologia da informação e segurança da informação, The Seek foi desenvolvido com a poderosa
@@ -25,3 +16,8 @@ Agradecimentos: Hospeda Host<br />
 
 # AJUDAS
 > -h para mais ajudas <br/>
+
+# PRINTS
+
+<img src="http://i.imgur.com/YGNlw9J.png">
+<img src="http://i.imgur.com/73nMsiV.png">
